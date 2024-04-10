@@ -42,3 +42,6 @@
 </div>
 
 <hr/>
+
+ <h3>📊 GitHub Stats:</h3>
+        <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShayElisha&show_icons=true&locale=en&layout=compact" alt="shaymrks" /></p>
