@@ -11,8 +11,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShayElisha)](https://github.com/anuraghazra/github-readme-stats)
 
 
-https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png
-https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png
+<img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png">
+<img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png">
 <!--
 **ShayElisha/ShayElisha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
